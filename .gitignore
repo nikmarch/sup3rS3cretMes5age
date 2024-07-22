@@ -6,3 +6,7 @@ static/.well-known
 *.key
 /sup3rS3cretMes5age
 .DS_Store
+.tfstate
+*.tfstate
+*.tfstate.backup
+.terraform
